@@ -30,7 +30,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=flat-square&logo=archlinux&logoColor=white">
-  <img src="https://cdn.simpleicons.org/cachyos/white" width="20" height="20" alt="CachyOS" style="background-color: #04d9ff; padding: 5px; border-radius: 2px;">
+  <img src="https://img.shields.io/badge/CachyOS-00AA88?style=flat-square&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Q2FjaHlPUzwvdGl0bGU+PHBhdGggZD0iTTUuMzAxIDIuNjQ2IDAgMTEuNzcxbDUuNTQxIDkuNTgzaDExLjQ4NmwyLjkwNC01LjAxN0g4LjEwMmwtMi41Ni00LjQyOUw4LjA2NyA3LjU0aDYuMDYzbDIuODMtNC44OTNaTTIwLjA1OCA0LjEyYS43NDguNzQ4IDAgMCAwIDAgMS40OTYuNzQ4Ljc0OCAwIDAgMCAwLTEuNDk2bS0xLjk4MyA0LjMwM2ExLjQ1IDEuNDUgMCAwIDAgMCAyLjkgMS40NSAxLjQ1IDAgMCAwIDAtMi45bTQuMDIgMy45OGExLjkwNCAxLjkwNCAwIDAgMCAwIDMuODA5IDEuOTA0IDEuOTA0IDAgMCAwIDAtMy44MSIvPjwvc3ZnPg==">
   <img src="https://img.shields.io/badge/Hyprland-%23000000.svg?style=flat-square&logo=hyprland&logoColor=white">
   <img src="https://img.shields.io/badge/Fish_Shell-%234EAA25.svg?style=flat-square&logo=fishshell&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white">
