@@ -36,15 +36,47 @@
 </p>
 
 ---
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suzuya4w&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Suzuya4w&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+<h2 align="center">📊 GITHUB STATS</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Suzuya4w&style=flat-square&color=blue&label=Profile%20Views" alt="Profile Views">
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>GITHUB STATS​​​​</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Suzuya4w">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Suzuya4w&c>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>STREAK STATS​​​​</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Suzuya4w">
+          <img align="center" src="https://streak-stats.demolab.com?user=Suzuya4w&theme=nightowl">
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>MOST USED LANGUAGES​​​​</strong></h3>
+      <p align="center">
+        <a href="https://github.com/arafat-web">
+          <img align="center" style="width: 475px; height: 200px;" src="https://github-readme-sta>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>TOP CONTRIBUTIONS​​​​</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Suzuya4w">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Suzuy>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
 
 ---
 
