@@ -30,7 +30,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=flat-square&logo=archlinux&logoColor=white">
-  <img src="https://img.shields.io/badge/CachyOS-00AA88.svg?style=flat-square&logo=cachyos&logoColor=white">
+  <img src="https://cdn.simpleicons.org/cachyos/white" width="25" height="25" alt="CachyOS">
   <img src="https://img.shields.io/badge/Hyprland-%23000000.svg?style=flat-square&logo=hyprland&logoColor=white">
   <img src="https://img.shields.io/badge/Fish_Shell-%234EAA25.svg?style=flat-square&logo=fishshell&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white">
