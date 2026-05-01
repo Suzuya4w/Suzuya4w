@@ -30,8 +30,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=flat-square&logo=archlinux&logoColor=white">
-  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>CachyOS</title><path d="M5.301 2.646 0 11.771l5.541 9.583h11.486l2.904-5.017H8.102l-2.56-4.429L8.067 7.54h6.063l2.83-4.893ZM20.058 4.12a.748.748 0 0 0 0 1.496.748.748 0 0 0 0-1.496m-1.983 4.303a1.45 1.45 0 0 0 0 2.9 1.45 1.45 0 0 0 0-2.9m4.02 3.98a1.904 1.904 0 0 0 0 3.809 1.904 1.904 0 0 0 0-3.81"/></svg><img width="300" height="300" alt="cachyos" src="https://github.com/user-attachments/assets/4d7d8c12-32b7-4026-91ff-4e8e4ff7d1a3" />
-
+  <img src="https://img.shields.io/badge/CachyOS-00AA88.svg?style=flat-square&logo=cachyos&logoColor=white">
   <img src="https://img.shields.io/badge/Hyprland-%23000000.svg?style=flat-square&logo=hyprland&logoColor=white">
   <img src="https://img.shields.io/badge/Fish_Shell-%234EAA25.svg?style=flat-square&logo=fishshell&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white">
