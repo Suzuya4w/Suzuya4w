@@ -1,4 +1,4 @@
-<img width="300" height="300" alt="cachyos" src="https://github.com/user-attachments/assets/a337b2a6-7962-4a35-bfd5-a0b04ec4ac95" />
+
 <p align="center">
   <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="15%" height="15%">
 </p>
